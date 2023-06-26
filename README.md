@@ -3,4 +3,5 @@ Integrantes
 *Gerardo Martinez
 *Luis Ramirez
 *Shalom Tellez
-
+*Eric Juarez*
+*Diego Jafet*
